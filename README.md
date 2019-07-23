@@ -1,2 +1,2 @@
 # TRF-TASK1
-searching path algorithm rixin mat
+searching path algorithm for a matrix
