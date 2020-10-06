@@ -1,4 +1,4 @@
-# Searching path algorithm for a matrix
+# Searching path algorithm for a matrix using DFS
 
 
 # 1. INTRODUCTION
